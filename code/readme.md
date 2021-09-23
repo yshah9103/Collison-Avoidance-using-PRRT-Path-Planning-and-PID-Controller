@@ -1,4 +1,4 @@
-Detailed instructions to run the code:
+## Detailed instructions to run the code:
 
 ### Step 1: 
 Installing Dependencies-
