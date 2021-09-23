@@ -17,3 +17,5 @@ A Novel path planning algorithm combining dynamic potential field with RRT* algo
 ## Scene 4: Crossroad
 
 ![Crossroads](https://user-images.githubusercontent.com/74123050/134554435-91e26bce-15ec-4347-ac42-5af5e2938194.gif)
+
+### Installation instructions and code usage is explained in the code folder readme file
