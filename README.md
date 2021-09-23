@@ -1,6 +1,6 @@
 # Collison-Avoidance-using-PRRT-Path-Planning-and-PID-Controller
 
-<!-- A Novel path planning algorithm combining dynamic potential field with RRT* algorithm is implemented and demonstrated for collision avoidance in 4 different scenarios using Turtlebot3 robots in ROS Gazebo.  -->
+A Novel path planning algorithm combining dynamic potential field with RRT* algorithm is implemented and demonstrated for collision avoidance in 4 different scenarios using Turtlebot3 robots in ROS Gazebo. 
 
 ## Scene 1: Wrong Lane Driving
 
