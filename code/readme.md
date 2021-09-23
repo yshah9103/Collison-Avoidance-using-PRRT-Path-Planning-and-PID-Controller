@@ -12,8 +12,7 @@ export TURTLEBOT3_MODEL=waffle
 Copy the launch files from the launch folder in control to turtlebot3_simulations/turtlebot3_gazebo/launch
 
 ### Additional Information
-1) in scene#c#.py change line 78 to update the location of test.txt. #can be 1/2/3/4 depending on what cases is to be run.
-2) Using c.py, c1.py and func.py. The collision avoidance system is demonstrated using 4 different scenarios simulated on ROS Gazebo. 
+1) Using c.py, c1.py and func.py. The collision avoidance system is demonstrated using 4 different scenarios simulated on ROS Gazebo. 
 
 
 ## Running the test cases:
