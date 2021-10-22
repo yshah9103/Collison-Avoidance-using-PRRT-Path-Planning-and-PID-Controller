@@ -2,10 +2,10 @@
 
 ### Step 1: 
 Installing Dependencies-
-Install Turtlebot3 in ubuntu
+Install Turtlebot3 in ubuntu.
 
 ### Step 2:
-Perform the following steps in the terminal prior to running the main launch files to run the package successfully
+Perform the following steps in the terminal prior to running the main launch files to run the package successfully.
 export TURTLEBOT3_MODEL=waffle
 
 ### Step 3:
